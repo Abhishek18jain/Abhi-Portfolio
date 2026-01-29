@@ -56,26 +56,19 @@ const AboutMe = () => {
             marginBottom: "1rem",
           }}
         >
-          Hi, I’m <strong>Kunj Desai</strong> — an aspiring{" "}
-          <strong>Artificial Intelligence Engineer</strong> and{" "}
-          <strong>Machine Learning enthusiast</strong> who loves turning ideas
-          into intelligent systems. I’m deeply fascinated by how data and
-          algorithms can shape the future of healthcare, automation, and
-          creativity in technology.
+          Hi, I’m <strong>Abhishek Jain</strong> — a third-year engineering student and
+          <strong>MERN stack developer</strong> currently expanding into 
+          <strong>DevOps and backend systems engineering.</strong> wI enjoy building production-ready web applications, designing scalable APIs, and deploying real-world systems using modern cloud and automation tools.
         </p>
 
-        <p style={{ fontSize: "1.1rem", color: "rgba(255,255,255,0.8)" }}>
-          Beyond code, I enjoy exploring design, experimenting with motion and
-          interaction, and finding ways to blend{" "}
-          <strong>artistic creativity</strong> with{" "}
-          <strong>technical precision</strong>. My goal is to build solutions
-          that not only perform — but also inspire.
-        </p>
+       <p style={{ fontSize: "1.1rem", color: "rgba(255,255,255,0.8)" }}>
+  Beyond coding, I enjoy playing football, competitive online gaming, and staying active — things that keep me disciplined, strategic, and sharp under pressure. I bring that same mindset into engineering by building scalable backend systems, deploying real-world applications, and constantly pushing myself to become production-ready.
+</p>
 
-        <p>
-            4th-year B.Tech AI Engineering student with hands-on experience in ML & DL Projects. Proficient in Python, scikitlearn,pytorch,tensorflow and data preprocessing. Seeking internship opportunities to apply skills and contribute to
-            impactful AI solutions.
-        </p>
+
+      <p>
+  Third-year B.Tech student and MERN stack developer with hands-on experience building full-stack web applications and backend systems. Skilled in Node.js, Express, MongoDB, React, and currently expanding into DevOps and cloud deployment. Actively seeking internship opportunities where I can contribute to production-ready systems and grow as a backend-focused engineer.
+</p>
 
         {/* --- Education Section --- */}
         <motion.div
@@ -131,7 +124,7 @@ const AboutMe = () => {
                     fontSize: "1.25rem",
                   }}
                 >
-                  B.Tech in Artificial Intelligence and Data Science
+                  B.Tech in Computer Science
                 </h4>
                 <p
                   style={{
@@ -139,11 +132,11 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>S.C.E.T (Sarvajanik University)</strong> — Surat,
-                  Gujarat
+                  <strong>R.G.V.P(RAGIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA)</strong> — Indore,
+                  Madhya Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  4th Year (Pursuing) | GPA: 9.0
+                  3rd Year (Pursuing) | GPA: 7.0
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
               </div>
@@ -184,13 +177,13 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Ambika
-                  Niketan, Surat
+                  <strong>Jay Jyoti School</strong> — Jaypee University
+                  Guna, Madhya Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 78%
+                CBSE Board | Percentage: 67%
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2022</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2023</p>
               </div>
             </motion.div>
 
@@ -229,11 +222,11 @@ const AboutMe = () => {
                     marginBottom: "0.2rem",
                   }}
                 >
-                  <strong>R.S.M. Poonawala Experimental School</strong> — Surat,
-                  Gujarat
+                   <strong>Jay Jyoti School</strong> — Jaypee University
+                  Guna, Madhya Pradesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  Gujarat Board | Percentage: 69%
+                  CBSE Board | Percentage: 74%
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2020</p>
               </div>

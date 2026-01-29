@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 import emailjs from "emailjs-com";
 
-import githubLogo from "../../public/github.png";
-import linkedinLogo from "../../public/linkedin.png";
-import gmailLogo from "../../public/gmail.png";
-import whatsappLogo from "../../public/whatsapp.png";
-import instagramLogo from "../../public/insta.png";
-import facebookLogo from "../../public/facebook.png";
+import githubLogo from "../assets/github.png";
+import linkedinLogo from "../assets/linkedin.png";
+import gmailLogo from "../assets/gmail.png";
+import whatsappLogo from "../assets/whatsapp.png";
+import instagramLogo from "../assets/insta.png";
+// import facebookLogo from "../../public/facebook.png";
 
 import "../CSS/Contact.css"
 import '../index.css' 
@@ -67,12 +67,12 @@ export default function Contact() {
   };
 
   const quickLinks = [
-    { img: githubLogo, title: "GitHub", link: "https://github.com/kunj2803" },
-    { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/kunj-desai-07717b293/" },
-    { img: gmailLogo, title: "Email", link: "mailto:kunjd2803@gmail.com" },
-    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918758209508" },
-    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/kunj_2834/" },
-    { img: facebookLogo, title: "Facebook", link: "https://www.facebook.com/kunj.desai.222608" },
+    { img: githubLogo, title: "GitHub", link: "https://github.com/Abhishek18Jain" },
+    { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/abhishek18jain/" },
+    { img: gmailLogo, title: "Email", link: "mailto:jainabhishek1820@gmail.com" },
+    { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+918717821501" },
+    { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/jainsahab_amlya/" },
+    // { img: facebookLogo, title: "Facebook", link: "https://www.facebook.com/kunj.desai.222608" },
   ];
 
   return (
